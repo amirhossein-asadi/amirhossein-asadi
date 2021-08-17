@@ -15,7 +15,7 @@ class amirhossein:
         }
    
   def __repr__(self):
-    return 'GOD'
+    return 'Amirhossein'
 
 ```
 
