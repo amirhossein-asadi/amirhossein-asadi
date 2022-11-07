@@ -9,8 +9,8 @@ class amirhossein:
   
   def get_bio(self):
     return {
-        'looking_to_collaborate_on' : 'React & Django',
-        'currently_learning'        : 'React, React Native and FastApi',
+        'looking_to_collaborate_on' : 'React',
+        'currently_learning'        : 'React',
         'ask_me_about'              : 'Nothing!',
         }
    
